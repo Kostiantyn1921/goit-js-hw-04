@@ -11,8 +11,6 @@ function calcAverageCalories(days) {
         return 0;
     }    
 }
-
-
 console.log(
   calcAverageCalories([
     { day: "monday", calories: 3010 },
